@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&vCenter=true&width=600&lines=Builder+and+CEO+of+Iteris;7+flagship+products+and+tools;Ex+Co-Founder+%26+CTO+Plerk+(YC+S20))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&vCenter=true&width=600&lines=Builder+and+CEO+of+Iteris;7+products+built+and+running;Ex+Co-Founder+%26+CTO+Plerk+(YC+S20))](https://git.io/typing-svg)
 
 ## Antonio Martinez Quintero
 
