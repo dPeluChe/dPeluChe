@@ -1,24 +1,26 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&vCenter=true&width=600&lines=Builder+and+CEO+of+Iteris;7+products+built+and+running;Ex+Co-Founder+%26+CTO+Plerk+(YC+S20))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&vCenter=true&width=600&lines=Product+%26+Engineering+Lead+at+Iteris;6+products+shipped;Ex+Co-Founder+%26+CTO+Plerk+(YC+S20))](https://git.io/typing-svg)
 
-## Antonio Martinez Quintero
+# Antonio Martinez (dPeluChe)
 
-**Builder and CEO of [Iteris](https://iteris.tech)** — a 5-person product studio building AI systems, internal tools and software products.
-
-Previously Co-Founder & CTO of [Plerk](https://www.ycombinator.com/companies/plerk) (YC S20, acquired). 15+ years across fintech, banking, payments, sports tech and AI systems.
+Product & Engineering Lead at [Iteris](https://iteris.tech). Previously Co-Founder & CTO of [Plerk](https://www.ycombinator.com/companies/plerk) (YC S20, acquired by Minu). 15+ years across fintech, banking, payments, sports tech and AI systems.
 
 ---
 
-### What I build
+### Shipped
 
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| [**FeedBy**](https://feedby.ai) | AI feedback platform — 700+ surveys processed | FastAPI, React, LangGraph |
-| **Krilbot** | AI business platform — 10 specialized agents | Node, React, SQLite |
-| [**TarsCLI**](https://www.npmjs.com/package/@dpeluche/tars) | Terminal compression for AI agents — 60-90% token savings | Rust, npm published |
-| **Keiro** | Context & memory for AI agents (MCP protocol) | Next.js, Convex, CLI |
-| **Postino** | Email client + personal knowledge base | Tauri, Rust, Ollama |
-| **Cameraman** | Open source macOS screen recorder | Swift, ScreenCaptureKit |
-| **Exegol** | AI coding agent orchestrator | Electron, Rust, Monaco |
+- **[FeedBy](https://feedby.ai)** — AI survey platform → [feedby.ai](https://feedby.ai)
+- **[TRS](https://usetrs.dev)** — Terminal compression for AI agents → [usetrs.dev](https://usetrs.dev)
+- **[Spark](https://github.com/dPeluChe/spark)** — Developer tool (open source) → [github.com/dPeluChe/spark](https://github.com/dPeluChe/spark)
+- **[Keiro](https://usekeiro.com)** — AI agent memory, MCP → [usekeiro.com](https://usekeiro.com)
+- **[Pinflow](https://pinflow.my)** — Visual workflow platform → [pinflow.my](https://pinflow.my)
+- **Tasky** — Studio ops and project tracking
+
+### In Development
+
+- **Postino** — Email + knowledge base (Tauri, Rust)
+- **Cameraman** — macOS screen recorder (Swift)
+- **Exegol** — AI agent orchestrator (Electron, Rust)
+- **Krilbot** — AI operations platform — 10 specialized agents
 
 ---
 
@@ -56,6 +58,7 @@ Previously Co-Founder & CTO of [Plerk](https://www.ycombinator.com/companies/ple
 
 <div align="center">
 
+[![dpeluche.dev](https://img.shields.io/badge/dpeluche.dev-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://dpeluche.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseantoniomtzq)
 [![Iteris](https://img.shields.io/badge/Iteris-1a1a2e?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZjk4MDAiIHN0cm9rZS13aWR0aD0iMiI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI2Ii8+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMiIvPjwvc3ZnPg==&logoColor=FF9800)](https://iteris.tech)
 [![FeedBy](https://img.shields.io/badge/FeedBy-4CAF50?style=for-the-badge&logoColor=white)](https://feedby.ai)
