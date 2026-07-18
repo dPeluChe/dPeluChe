@@ -1,30 +1,43 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&vCenter=true&width=600&lines=Product+%26+Engineering+Lead+at+Iteris;6+products+shipped;Ex+Co-Founder+%26+CTO+Plerk+(YC+S20))](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&vCenter=true&center=true&width=600&lines=Product+%26+Engineering+Lead+at+Iteris;6+products+shipped;Ex+Co-Founder+%26+CTO+Plerk+(YC+S20))](https://git.io/typing-svg)
 
 # Antonio Martinez (dPeluChe)
 
-Product & Engineering Lead at [Iteris](https://iteris.tech). Previously Co-Founder & CTO of [Plerk](https://www.ycombinator.com/companies/plerk) (YC S20, acquired by Minu). 15+ years across fintech, banking, payments, sports tech and AI systems.
+**Product & Engineering Lead at [Iteris](https://iteris.tech)** · Ex Co-Founder & CTO of [Plerk](https://www.ycombinator.com/companies/plerk) (YC S20, acquired by Minu)
+
+15+ years shipping fintech, banking, payments, sports tech and AI systems.
+
+[![dpeluche.dev](https://img.shields.io/badge/dpeluche.dev-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://dpeluche.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseantoniomtzq)
+[![Twitter](https://img.shields.io/badge/@dPeluChe-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dPeluChe)
+[![Iteris](https://img.shields.io/badge/Iteris-1a1a2e?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZjk4MDAiIHN0cm9rZS13aWR0aD0iMiI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI2Ii8+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMiIvPjwvc3ZnPg==&logoColor=FF9800)](https://iteris.tech)
+
+</div>
 
 ---
 
-### Shipped
+## Shipped
 
-- **[FeedBy](https://feedby.ai)** — AI survey platform → [feedby.ai](https://feedby.ai)
-- **[TRS](https://usetrs.dev)** — Terminal compression for AI agents → [usetrs.dev](https://usetrs.dev)
-- **[Spark](https://github.com/dPeluChe/spark)** — Developer tool (open source) → [github.com/dPeluChe/spark](https://github.com/dPeluChe/spark)
-- **[Keiro](https://usekeiro.com)** — AI agent memory, MCP → [usekeiro.com](https://usekeiro.com)
-- **[Pinflow](https://pinflow.my)** — Visual workflow platform → [pinflow.my](https://pinflow.my)
-- **Tasky** — Studio ops and project tracking
+| Project | What it is | Links |
+|---------|------------|-------|
+| **FeedBy** | AI survey platform — 700+ surveys processed | [feedby.ai](https://feedby.ai) |
+| **TRS** | Terminal compression for AI coding agents — Rust, 60–90% token savings | [repo](https://github.com/dPeluChe/trs) · [usetrs.dev](https://usetrs.dev) |
+| **Spark** | DevOps TUI platform — Rust, open source | [repo](https://github.com/dPeluChe/spark) |
+| **Keiro** | Context & memory for AI agents (MCP) | [usekeiro.com](https://usekeiro.com) |
+| **Pinflow** | Visual collaboration & reporting platform | [pinflow.my](https://pinflow.my) |
+| **Tasky** | Studio ops and project tracking | — |
 
-### In Development
+## In Development
 
-- **Postino** — Email + knowledge base (Tauri, Rust)
-- **Cameraman** — macOS screen recorder (Swift)
-- **Exegol** — AI agent orchestrator (Electron, Rust)
-- **Krilbot** — AI operations platform — 10 specialized agents
+| Project | What it is | Links |
+|---------|------------|-------|
+| **Exegol** | AI coding agent orchestrator — Electron, Rust, Monaco | [repo](https://github.com/dPeluChe/exegol) |
+| **Postino** | Email client + personal knowledge base — Tauri, Rust, Ollama | [clipper](https://github.com/dPeluChe/postino-clipper) |
+| **Cameraman** | macOS screen recorder + editor — Swift, ScreenCaptureKit | — |
+| **Krilbot** | AI operations platform — 10 specialized agents | — |
 
----
-
-### Tech stack
+## Tech stack
 
 [![My Skills](https://skillicons.dev/icons?i=rust,ts,react,nextjs,python,nodejs,swift,tailwind,docker,aws&theme=dark&perline=10)](https://skillicons.dev)
 
@@ -32,9 +45,7 @@ Product & Engineering Lead at [Iteris](https://iteris.tech). Previously Co-Found
 &nbsp;&middot;&nbsp; **Systems:** Rust, Go, Swift
 &nbsp;&middot;&nbsp; **Desktop:** Tauri, Electron
 
----
-
-### Background
+## Background
 
 - **Iteris** (2023–present) — Product studio. AI systems, own products, client solutions
 - **Plerk / YC S20** (2019–2023) — Co-Founder & CTO. Scaled engineering within a 152-person fintech. Acquired
@@ -48,19 +59,7 @@ Product & Engineering Lead at [Iteris](https://iteris.tech). Previously Co-Found
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=dPeluChe&theme=github-dark-blue&hide_border=true)
 
-</div>
-
----
-
-> Production over prototypes. Systems, not features. If it doesn't ship, it doesn't count.
-
-<div align="center">
-
-[![dpeluche.dev](https://img.shields.io/badge/dpeluche.dev-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://dpeluche.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseantoniomtzq)
-[![Iteris](https://img.shields.io/badge/Iteris-1a1a2e?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZjk4MDAiIHN0cm9rZS13aWR0aD0iMiI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI2Ii8+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMiIvPjwvc3ZnPg==&logoColor=FF9800)](https://iteris.tech)
-[![FeedBy](https://img.shields.io/badge/FeedBy-4CAF50?style=for-the-badge&logoColor=white)](https://feedby.ai)
-[![Twitter](https://img.shields.io/badge/@dPeluChe-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dPeluChe)
+> **Production over prototypes. Systems, not features. If it doesn't ship, it doesn't count.**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dPeluChe&color=58A6FF&style=flat-square&label=Profile+Views)
 
