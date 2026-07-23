@@ -22,7 +22,7 @@
 | Project | What it is | Links |
 |---------|------------|-------|
 | **FeedBy** | AI survey platform — 700+ surveys processed | [feedby.ai](https://feedby.ai) |
-| **TRS** | Terminal compression for AI coding agents — Rust, 60–90% token savings | [repo](https://github.com/dPeluChe/trs) · [usetrs.dev](https://usetrs.dev) |
+| **trs** | Terminal compression for AI coding agents — Rust, 60–90% token savings | [repo](https://github.com/dPeluChe/trs) · [usetrs.dev](https://usetrs.dev) |
 | **Spark** | DevOps TUI platform — Rust, open source | [repo](https://github.com/dPeluChe/spark) |
 | **Keiro** | Context & memory for AI agents (MCP) | [usekeiro.com](https://usekeiro.com) |
 | **Pinflow** | Visual collaboration & reporting platform | [pinflow.my](https://pinflow.my) |
